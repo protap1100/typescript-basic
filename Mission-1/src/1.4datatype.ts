@@ -2,6 +2,7 @@
 
 // String
 let firstName: string = "protap";
+let secondName : string = "Biswas";
 //  number
 let answer: number = 10;
 // boolean
