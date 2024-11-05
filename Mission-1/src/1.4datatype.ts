@@ -2,7 +2,7 @@
 
 // String
 let firstName: string = "protap";
-let secondName : string = "Biswas";
+let secondName: string = "Biswas";
 //  number
 let answer: number = 10;
 // boolean
@@ -22,4 +22,9 @@ const roll: number[] = [10, 20, 30];
 // Tuple
 const coordinates: [number, number] = [1, 5];
 
-const personDetails: [string, number, string , boolean] = [ "Protap", 20, "Student", true ];
+const personDetails: [string, number, string, boolean] = [
+  "Protap",
+  20,
+  "Student",
+  true,
+];
